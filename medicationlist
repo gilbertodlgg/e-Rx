@@ -1,1 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+	<title>Bioprofile</title>
+ </head>
+<body style="background-color:darkblue;">
+	
+<!-- Clinical History of the Patient -->
+	
+	<h1 style="color:white; text-align:center;">Bioprofile</h1>
+	
+<hr>
+	
+<img src="https://cdn.allfamous.org/people/avatars/marina-maximilian-blumin-m1ef-allfamous.org.jpg" alt="Genetic profile" width="304" height="342">
 
+<h3 style="color:red;">Demographic information</h3>
+	<p style="color:white;">Name</p>
+	<p style="color:white;">Age</p>
+	<p style="color:white;">Date of birth</p>
+	<p style="color:white;">Address</p>
+	<p style="color:white;">Ethnicity</p>
+	<p style="color:white;">Nationality</p>
+
+<hr>
+	<h2 style="color:white;">Medical profile</h2>
+	
+	<h3 style="color:white;">Family History</h3>
+		<p style="color:white;">Maternal History</p>
+		<p style="color:white;">Paternal History</p>
+		<p style="color:white;">Siblings</p>
+		<p style="color:white;">Grandparents</p>
+		<p style="color:white;">Extended family</p>
+		<p style="color:white;">Children</p>
+	<h3 style="color:white;">Non-Pathologic Medical History</h3>
+		<p style="color:white;">Occupation</p>
+		<p style="color:white;">Formal education</p>
+		<p style="color:white;">Next of kin</p>
+		<p style="color:white;">Financial status</p>
+		<p style="color:white;">Sleep Patterns</p>
+	<h3 style="color:white;">Pathological History</h3>
+	<h3 style="color:white;">Chief Complaint</h3>
+	<h3 style="color:white;">Review of Systems</h3>
+	<p style="color:white;">Family History</p>
+
+<hr>
+		
+<!-- Medication History of the Patient -->
+	
+	<h2 style="color:white;">Patient Encounters</h2>
+	
+<p style="color:white;">Subjective</p>
+<p style="color:white;">Objective</p>
+<p style="color:white;">Analysis</p>
+<p style="color:white;">Plan</p>
+	
+	<style>
+	table, th, td {
+	  border:1px solid white;
+	}
+	</style>
+
+	<table style="width:100%">
+	  <tr>
+	    <th style="color:white;">Drug</th>
+	    <th style="color:white;">Presentation</th>
+	    <th style="color:white;">Frequency</th>
+	  </tr>
+	  <tr>
+	    <td style="color:white;">Paracetamol 500mg</td>
+	    <td style="color:white;">Tablet</td>
+	    <td style="color:white;">Four times a day for 3 days. 3</td>
+	  </tr>
+	  <tr>
+	    <td style="color:white;">Loratadine 10 mg</td>
+	    <td style="color:white;">Tablet</td>
+	    <td style="color:white;">Once or twice a day for 3 days.</td>
+	  </tr>
+	</table>
+	
+<hr>
+
+<!-- Online education -->
+	
+	<h2 style="color:white;">Patient education</h2>
+	
+<a href="https://es.wikipedia.org/wiki/COVID-19" style="color:white;">Learn more about COVID-19</a>
+
+
+</body>
+</html>
